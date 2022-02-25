@@ -1,0 +1,72 @@
+OBJECT_SHARED Models/Power/windturbine.xml 9.3436111 47.8905556 725.62 180
+OBJECT_SHARED Models/Power/windturbine.xml 9.3544444 47.8933333 738.72 180
+OBJECT_SHARED Models/Power/windturbine.xml 9.3633333 47.9922222 622.54 180
+OBJECT_SHARED Models/Power/windturbine.xml 9.3888889 47.9894444 631.51 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac 9.4438889 47.9963889 600 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.3883638 47.9733986 632.61 232.13
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.3937157 47.9780054 645.72 237.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 9.3950889 47.9798325 636.31 243.29
+# Objects for EDTP Pfullendorf, Germany Feb 2022
+OBJECT_STATIC EDTP_main_building.ac 9.25117038 47.91214346 688.4773 170.6 1.1 -0.0
+OBJECT_SHARED Models/Misc/swing.ac 9.25125221 47.91212548 688.5797 350.4 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnictablegreen1.ac 9.25114197 47.91211218 688.6083 356.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/picnictablegreen1.ac 9.25106976 47.91211719 688.6189 356.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25130625 47.91237678 688.2130 81.9 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25135832 47.91232657 688.2712 347.7 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25132978 47.91223880 688.3972 347.7 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25130124 47.91215103 688.5233 347.7 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Hedge_2m.ac 9.25128495 47.91209826 688.5989 351.3 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Hedge_2m.ac 9.25128090 47.91208050 688.6247 351.3 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25121209 47.91207528 688.6460 265.3 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 9.25107851 47.91208259 688.6636 265.4 0.0 -0.1
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 9.25142396 47.91251004 688.0311 340.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 9.25142136 47.91249588 688.0485 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 9.25142981 47.91257086 687.9604 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 9.25266790 47.91234113 687.8864 148.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 9.25267493 47.91235077 687.8726 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac 9.25262704 47.91228225 687.9743 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/fire-truck.xml 9.25128444 47.91245370 688.0970 172.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.25114686 47.91239279 691.8149 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hondacrvblack.ac 9.25100381 47.91237527 688.2726 352.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/camarowhite.ac 9.25099055 47.91231505 688.3688 352.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/volvoxc90s1.ac 9.25100966 47.91240418 688.2300 353.6 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.25107649 47.91204597 688.7278 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/large_tree_erected.xml 9.25098094 47.91205218 688.7386 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25195090 47.91187437 688.8884 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25178807 47.91143868 689.8184 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25162525 47.91100298 690.7508 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25146241 47.91056729 691.6831 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25129955 47.91013160 692.6154 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25113673 47.90969590 693.5485 75.9 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25097399 47.90926019 694.4634 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25081125 47.90882448 695.3567 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25064844 47.90838878 696.2426 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25048556 47.90795310 697.1304 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25032264 47.90751742 698.0230 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25015965 47.90708175 698.9131 75.9 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25156077 47.91193998 688.8891 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25139819 47.91150424 689.8074 76.0 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25123563 47.91106850 690.7285 76.0 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25107307 47.91063276 691.6476 76.0 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25091050 47.91019702 692.5656 76.0 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25074793 47.90976128 693.4850 76.0 0.0 -1.1
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25058535 47.90932555 694.3848 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25042279 47.90888981 695.2601 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25026023 47.90845407 696.1313 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25009765 47.90801833 697.0035 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25002727 47.90673911 699.6142 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25001267 47.90674147 699.6066 75.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25164776 47.91215440 688.4352 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25166216 47.91215210 688.4361 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25202397 47.91209111 688.4280 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.25201012 47.91209340 688.4294 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.24993507 47.90758260 697.8775 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.24977250 47.90714686 698.7509 76.0 0.0 -1.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.24964946 47.90680245 699.4429 76.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 9.24966485 47.90679967 699.4516 75.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 9.25105680 47.90948263 694.0053 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/HalfRunwayMarker.ac 9.25066918 47.90954073 693.9564 347.5 0.0 -0.0
+OBJECT_STATIC EDTP_hangar_east.ac 9.25371240 47.91196791 687.5130 346.5 -1.2 -0.0
+OBJECT_SHARED Models/Transport/vwgolfsilver.ac 9.25394403 47.91192456 687.8344 80.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/motorhome.ac 9.25355552 47.91132672 689.3212 80.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c172-bluen108av.ac 9.25344038 47.91145754 689.0643 120.0 0.0 -0.0
