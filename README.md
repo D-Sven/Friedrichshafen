@@ -5,16 +5,16 @@ FlightGear custom scenery for the Bodensee region, Germany
 
 *  Friedrichshafen (EDNY)
 	* included new airport
-	* custom main buildings (todo)
+	* custom main buildings
 	* secondary buildings (todo)
 	* ILS both runways
 	* FMS procedures
 * Pfullendorf (EDTP)
 	* included new airport
-	* custom buildings (todo)
+	* custom buildings
 * Konstanz (EDTZ)
 	* upgraded airport layout
-	* custom buildings (todo)
+	* custom buildings
 * Neuhausen ob Eck (EDSN)
 	* upgraded airport layout
 	* custom buildings (todo)
@@ -69,4 +69,4 @@ FlightGear custom scenery for the Bodensee region, Germany
 * d-laser (https://github.com/mherweg/d-laser-fgtools)
     
     
-Sven Seipp, Jan 2022
+Sven Seipp, Feb 2022
